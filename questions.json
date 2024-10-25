@@ -1,0 +1,302 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Convert this sentence from present continuous passive to past continuous passive: 'The book is being read by the students.'",
+        "options": [
+            "The book was being read by the students.",
+            "The students were reading the book.",
+            "The book had been read by the students.",
+            "The book is read by the students."
+        ],
+        "correct": 0,
+        "explanation": "In the present continuous passive voice, 'is being read' indicates an ongoing action in the present. To convert this to past continuous passive voice, we change 'is' to 'was' and 'being read' remains as 'being read,' resulting in 'The book was being read by the students.'"
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Convert this sentence from present continuous passive to past continuous passive: 'Is the cake being decorated by the baker?'",
+        "options": [
+            "Was the cake being decorated by the baker?",
+            "Did the baker decorate the cake?",
+            "The cake was decorated by the baker.",
+            "Is the baker decorating the cake?"
+        ],
+        "correct": 0,
+        "explanation": "The present continuous passive form 'is being decorated' indicates that the action is ongoing. To change this to the past continuous passive voice, we replace 'is' with 'was,' keeping 'being decorated' unchanged, leading to 'Was the cake being decorated by the baker?'"
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Convert this sentence from present continuous passive to past continuous passive: 'The songs are being sung by the choir.'",
+        "options": [
+            "The songs were being sung by the choir.",
+            "The choir sang the songs.",
+            "The songs had been sung by the choir.",
+            "The songs are sung by the choir."
+        ],
+        "correct": 0,
+        "explanation": "Here, 'are being sung' signifies that the action is happening in the present. When converting to the past continuous passive, 'are' becomes 'were,' and 'being sung' stays the same, resulting in 'The songs were being sung by the choir.'"
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "What does the sentence 'By next year, the project will have been completed' imply?",
+        "options": [
+            "The project is currently being worked on.",
+            "The project is scheduled to start next year.",
+            "The project will be completed before next year.",
+            "The project was completed last year."
+        ],
+        "correct": 2,
+        "explanation": "The sentence 'By next year, the project will have been completed' is an example of the future perfect passive voice. This construction indicates that the action (completion of the project) will occur before a specific point in the future (next year). Thus, option c accurately captures the essence of the sentence."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "What does the sentence 'By the end of this month, all tasks will have been finalised' imply?",
+        "options": [
+            "All tasks are being worked on currently.",
+            "All tasks will be completed after the end of this month.",
+            "All tasks will be finalised before the end of this month.",
+            "Some tasks were completed last month."
+        ],
+        "correct": 2,
+        "explanation": "The sentence uses the future perfect passive voice, indicating that the action of finalising all tasks will be completed before a specified future time (the end of this month)."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "What does the sentence 'By the time the ceremony starts, the venue will have been prepared' imply?",
+        "options": [
+            "The venue is currently being prepared.",
+            "The venue will not be ready in time.",
+            "The venue will be prepared after the ceremony starts.",
+            "The venue will be fully prepared before the ceremony starts."
+        ],
+        "correct": 3,
+        "explanation": "This sentence is in the future perfect passive voice, which indicates that the preparation of the venue will be completed prior to the ceremony. The use of 'will have been prepared' assures that all necessary arrangements are made ahead of time."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "The new regulations ______ by the committee, but their impact is still being assessed.",
+        "options": [
+            "has been discussed",
+            "have been discussed",
+            "had been discussed",
+            "will be discussed"
+        ],
+        "correct": 1,
+        "explanation": "In the present perfect passive, the correct form requires 'have' (since 'regulations' is plural) followed by 'been' and the past participle 'discussed.' Thus, 'have been discussed' is the appropriate choice."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "By the time the event started, the invitations ______ not ______ to all the guests.",
+        "options": [
+            "had; sent",
+            "had; been sent",
+            "were; sent",
+            "have; been sent"
+        ],
+        "correct": 1,
+        "explanation": "The past perfect passive requires 'had' followed by 'been' and the past participle 'sent.' Therefore, 'had not been sent' captures that the action was incomplete prior to the event."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "______ the new policy ______ by the administration by the end of the month?",
+        "options": [
+            "Will; be approved",
+            "Is; approved",
+            "Has; been approved",
+            "Was; approved"
+        ],
+        "correct": 0,
+        "explanation": "In the simple future passive, the correct form is 'will be' followed by the past participle 'approved.' Thus, 'Will the new policy be approved by the administration by the end of the month?' is the right choice."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "By next month, ______ the project ______ not ______ by the team, despite their efforts?",
+        "options": [
+            "will; have; been completed",
+            "has; been; completed",
+            "will; be; completed",
+            "had; been; completed"
+        ],
+        "correct": 0,
+        "explanation": "The future perfect passive structure requires 'will have been' followed by the past participle. Therefore, 'By next month, will the project not have been completed by the team?' is the correct choice."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Despite the preparations, the documents ______ not ______ prior to the audit, resulting in a setback for the team.",
+        "options": [
+            "had; been reviewed",
+            "have; been reviewed",
+            "were; reviewed",
+            "had; reviewed"
+        ],
+        "correct": 0,
+        "explanation": "The past perfect passive form requires 'had' followed by 'been' and the past participle 'reviewed.' Thus, 'had not been reviewed' reflects this situation."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "______ the final adjustments ______ by the engineers before the product launch?",
+        "options": [
+            "Will; be made",
+            "Are; made",
+            "Have; been made",
+            "Were; made"
+        ],
+        "correct": 0,
+        "explanation": "The interrogative structure for simple future passive uses 'will' followed by 'be' and the past participle 'made.' Thus, 'Will the final adjustments be made by the engineers before the product launch?' is the correct formulation."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "By the time the report is due, ______ the necessary revisions ______ not ______ by the team, despite the tight deadline?",
+        "options": [
+            "will; have; been completed",
+            "has; been; completed",
+            "had; been; completed",
+            "will; be; completed"
+        ],
+        "correct": 0,
+        "explanation": "In future perfect passive, the structure 'will have been' followed by the past participle is required. Therefore, 'will the necessary revisions not have been completed by the team, despite the tight deadline?' is the appropriate choice."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "By next semester, ______ the curriculum changes ______ not ______ by the faculty?",
+        "options": [
+            "will; have; been finalised",
+            "has; been; finalised",
+            "had; been; finalised",
+            "will; be; finalised"
+        ],
+        "correct": 0,
+        "explanation": "The correct answer, 'will have been finalised,' uses the future perfect passive tense, indicating that the curriculum changes are expected to be completed before next semester."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "By the time the new semester starts, ______ the textbooks ______ not ______ by the publishers?",
+        "options": [
+            "will; have; been delivered",
+            "has; been; delivered",
+            "had; been; delivered",
+            "will; be; delivered"
+        ],
+        "correct": 0,
+        "explanation": "The correct option uses the future perfect passive tense, indicating that the textbooks are expected to be delivered before the new semester begins. The phrase 'By the time the new semester starts' establishes a future deadline, and 'will have been delivered' conveys the necessary completion of this action."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "By the time the client arrives, ______ the final report ______ not ______ by the team?",
+        "options": [
+            "has; been; prepared",
+            "will; have; been prepared",
+            "had; been; prepared",
+            "will; be; prepared"
+        ],
+        "correct": 1,
+        "explanation": "The correct answer, 'will; have; been prepared,' uses the future perfect passive tense to indicate that the final report is expected to be completed before the client's arrival. The phrase 'By the time the client arrives' establishes a future deadline, necessitating the use of 'will have been prepared' to express that the action of preparing the report should be finished prior to that future moment."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Identify the tense used in this sentence: <br> The reports are being analysed by the team.",
+        "options": [
+            "Present Continuous Passive",
+            "Past Continuous Passive",
+            "Simple Future Passive",
+            "Future Perfect Passive"
+        ],
+        "correct": 0,
+        "explanation": "This sentence is in the present continuous passive tense because it describes an ongoing action. The structure consists of 'are' (present form of 'to be') + 'being' + the past participle (analysed), indicating that the reports are currently in the process of being analysed by the team."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Identify the tense used in this sentence: <br> The letters were being sent by the postman.",
+        "options": [
+            "Present Continuous Passive",
+            "Past Continuous Passive",
+            "Simple Future Passive",
+            "Future Perfect Passive"
+        ],
+        "correct": 1,
+        "explanation": "The correct answer is 'Past Continuous Passive,' as the sentence indicates an action that was ongoing in the past. The structure includes 'were' (past form of 'to be') + 'being' + the past participle (sent), showing that the letters were in the process of being sent at a specific time in the past."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Identify the tense used in this sentence: <br> The announcement will be made by the director.",
+        "options": [
+            "Present Continuous Passive",
+            "Past Continuous Passive",
+            "Simple Future Passive",
+            "Future Perfect Passive"
+        ],
+        "correct": 2,
+        "explanation": "This sentence is in the simple future passive tense. The structure consists of 'will' + 'be' + the past participle (made), indicating that the announcement is planned to happen in the future. This shows a clear intention for the action to occur."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Identify the tense used in this sentence: <br> By the end of the year, the project will have been completed by the team.",
+        "options": [
+            "Present Continuous Passive",
+            "Past Continuous Passive",
+            "Simple Future Passive",
+            "Future Perfect Passive"
+        ],
+        "correct": 3,
+        "explanation": "The correct answer is 'Future Perfect Passive' because this sentence indicates that an action will be completed before a specified future time (the end of the year). The structure includes 'will have' + 'been' + the past participle (completed), emphasising that the project is expected to be finished by that point in time."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "At this moment, the documents ______ by the staff.",
+        "options": [
+            "are being processed",
+            "were being processed",
+            "will be processed",
+            "have been processed"
+        ],
+        "correct": 0,
+        "explanation": "The correct answer, 'are being processed,' uses the present continuous passive tense, which is formed with the present tense of 'to be' (are) + 'being' + the past participle (processed). This indicates that the action of processing the documents is currently taking place by the staff. The other options do not match the present continuous context."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "While the event was happening, the invitations ______ by the organisers.",
+        "options": [
+            "are being sent",
+            "were being sent",
+            "will be sent",
+            "have been sent"
+        ],
+        "correct": 1,
+        "explanation": "The correct answer, 'were being sent,' indicates the past continuous passive tense, formed with the past form of 'to be' (were) + 'being' + the past participle (sent). This structure shows that the invitations were in the process of being sent while the event was happening. The other options do not fit the past continuous context."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Tomorrow, the results ______ by the committee.",
+        "options": [
+            "will be announced",
+            "were announced",
+            "are announced",
+            "have been announced"
+        ],
+        "correct": 0,
+        "explanation": "The correct answer, 'will be announced,' uses the simple future passive tense, which is structured as 'will' + 'be' + the past participle (announced). This indicates that the results are expected to be announced by the committee in the future. The other options do not convey a future passive action."
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "By next month, the report ______ by the team.",
+        "options": [
+            "will be completed",
+            "was completed",
+            "will have been completed",
+            "is being completed"
+        ],
+        "correct": 2,
+        "explanation": "The correct answer, 'will have been completed,' indicates the future perfect passive tense, formed with 'will have' + 'been' + the past participle (completed). This structure expresses that the report is expected to be finished before the specified time of next month. The other options do not accurately reflect the future perfect context."
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Currently, the new software ______ by the IT department.",
+        "options": [
+            "is being tested",
+            "was being tested",
+            "will be tested",
+            "has been tested"
+        ],
+        "correct": 0,
+        "explanation": "The correct answer, 'is being tested,' uses the present continuous passive tense, which is formed with the present tense of 'to be' (is) + 'being' + the past participle (tested). This indicates that the action of testing the new software is currently ongoing by the IT department. The other options do not fit the present continuous passive context."
+    }
+]
